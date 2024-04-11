@@ -1,11 +1,17 @@
 <div align="center">
 
-# 💫 About Me:
-I'm currently learning in 42 Málaga - Fundación Telefónica
+# 💫 Sobre Mí:
+¡Hola! Soy Sebastián, un apasionado de la programación con un enfoque en el desarrollo web y móvil. Actualmente estoy como estudiante en el campus 42 de Málaga Fundación Telefónica, donde me esfuerzo por expandir mis conocimientos y mejorar mis habilidades técnicas.
 
+## 👨‍💻 Experiencia:
+Durante dos años, tuve el privilegio de trabajar en el departamento de Data Quality en Opplus-BBVA, donde adquirí una sólida experiencia en el manejo y análisis de datos críticos para el funcionamiento eficiente de la organización. Durante mi tiempo allí, contribuí al desarrollo y mantenimiento de procesos automatizados de limpieza y validación de datos, lo que resultó en una mejora significativa en la precisión y consistencia de los datos utilizados en informes y análisis clave para la toma de decisiones empresariales.
+
+Además de mi experiencia profesional, he llevado a cabo un proyecto personal significativo: la creación de una herramienta para la gestión de datos del juego de mesa Arkham Horror 3º Edición. Este proyecto implicó el diseño y desarrollo de una aplicación web para facilitar la organización y análisis de los datos del juego, proporcionando a los jugadores una forma intuitiva de gestionar sus partidas y explorar estadísticas detalladas sobre su rendimiento y estrategias de juego.
+
+Estas experiencias me han enseñado la importancia de la precisión y la integridad de los datos en diferentes contextos, así como la capacidad de desarrollar soluciones innovadoras y efectivas para abordar necesidades específicas de información.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-jimenez-roman) 
+¡Conéctate conmigo en [LinkedIn](https://linkedin.com/in/sebastian-jimenez-roman) para seguir mi viaje de aprendizaje y desarrollo!
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -34,6 +40,7 @@ I'm currently learning in 42 Málaga - Fundación Telefónica
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
+¡Echa un vistazo a mis proyectos y contribuciones en GitHub!
 ![](https://github-readme-stats.vercel.app/api?username=Rybenshot&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rybenshot&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rybenshot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
