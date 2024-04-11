@@ -40,7 +40,7 @@ Estas experiencias me han enseñado la importancia de la precisión y la integri
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-¡Echa un vistazo a mis proyectos y contribuciones en GitHub!
+<p>¡Echa un vistazo a mis proyectos y contribuciones en GitHub!</p>
 ![](https://github-readme-stats.vercel.app/api?username=Rybenshot&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rybenshot&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rybenshot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
