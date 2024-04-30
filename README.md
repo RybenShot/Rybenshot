@@ -6,7 +6,7 @@
 # Mi camino en 42
 
 <div aling="center">
-  [![sejimene's 42 stats](https://badge.mediaplus.ma/colorfulwaves/sejimene?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/sejimene?1337Badge=off&UM6P=off" alt="sejimene's 42 stats" /></a>
 </div>
 
 ## 👨‍💻 Experiencia:
