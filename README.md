@@ -1,13 +1,16 @@
 <div align="center">
 
+<p>
+  <a href= "#socials">Socials</a> |
+  <a href= "#tech-stack">Tech Stack</a> |
+  <a href= "#gitHubs-tats">GitHub Stats</a>
+</p>
+
 # 💫 Sobre Mí:
 ¡Hola! Soy Sebastián, un apasionado de la programación con un enfoque en el desarrollo web y móvil. Actualmente estoy como estudiante en el campus 42 de Málaga Fundación Telefónica, donde me esfuerzo por expandir mis conocimientos y mejorar mis habilidades técnicas.
 
 # Mi camino en 42
-
-<div aling="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/sejimene?1337Badge=off&UM6P=off" alt="sejimene's 42 stats" /></a>
-</div>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/sejimene?1337Badge=off&UM6P=off" alt="sejimene's 42 stats" /></a>
 
 ## 👨‍💻 Experiencia:
 Durante dos años, tuve el privilegio de trabajar en el departamento de Data Quality en Opplus-BBVA, donde adquirí una sólida experiencia en el manejo y análisis de datos críticos para el funcionamiento eficiente de la organización. Durante mi tiempo allí, contribuí al desarrollo y mantenimiento de procesos automatizados de limpieza y validación de datos, lo que resultó en una mejora significativa en la precisión y consistencia de los datos utilizados en informes y análisis clave para la toma de decisiones empresariales.
