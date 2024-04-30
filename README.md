@@ -1,11 +1,5 @@
 <div align="center">
 
-<p>
-  <a href= "#socials">Socials</a> |
-  <a href= "#tech-stack">Tech Stack</a> |
-  <a href= "#gitHubs-tats">GitHub Stats</a>
-</p>
-
 # 💫 Sobre Mí:
 ¡Hola! Soy Sebastián, un apasionado de la programación con un enfoque en el desarrollo web y móvil. Actualmente estoy como estudiante en el campus 42 de Málaga Fundación Telefónica, donde me esfuerzo por expandir mis conocimientos y mejorar mis habilidades técnicas.
 
