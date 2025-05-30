@@ -1,5 +1,10 @@
 <h2>Hey 👋, I'm Sebastián - Full Stack Developer</h2>
 <p>I'm a web and mobile development student at <strong><a href="https://www.42malaga.com/">42 Málaga</a></strong>, with previous experience as a FullStack Developer at <a href="https://www.aedashomes.com/">Cysnet</a> and as a Data Analyst at Opplus-BBVA.</p>
+<p>Currently exploring Vue.js, generative AI, and game-inspired web experiences.</p>
+
+<p align="center">
+  <img src="https://socialify.git.ci/RybenShot/App_Arkham_Horror_3/image?font=Raleway&issues=1&language=1&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
+</p>
 
 <p>I’m passionate about building useful tools — like my app for managing Arkham Horror 3rd Edition games:</p>
 
@@ -7,12 +12,6 @@
   <li>🎮 <a href="https://arkhamhorror-39297.web.app/#/">Live App</a></li>
   <li>📦 <a href="https://github.com/RybenShot/App_Arkham_Horror_3">GitHub Repo</a></li>
 </ul>
-
-<p>Currently exploring Vue.js, generative AI, and game-inspired web experiences.</p>
-
-<p align="center">
-  <img src="https://socialify.git.ci/RybenShot/App_Arkham_Horror_3/image?font=Raleway&issues=1&language=1&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
-</p>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RybenShot&theme=github-compact&custom_title=Sebastián%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -77,7 +76,7 @@ hobbies: ["Board games", "Rock and PopRock music", "Game design", "Cinema"]
 <br/>
 
 <div align="center">
-    <p>¿Que te parece si charlamos un rato?</p>
+    <p>What do you think about chatting for a while?</p>
     <a href="https://www.linkedin.com/in/sebastian-jimenez-roman/">
     <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
     </a>
