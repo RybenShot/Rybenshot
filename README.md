@@ -1,20 +1,38 @@
-<div align="center">
+<h2>Hey 👋, I'm Sebastián - Full Stack Developer</h2>
+<p>I'm a web and mobile development student at <strong><a href="https://www.42malaga.com/">42 Málaga</a></strong>, with previous experience as a FullStack Developer at <a href="https://www.aedashomes.com/">Cysnet</a> and as a Data Analyst at Opplus-BBVA.</p>
 
-# 💫 Sobre Mí:
-¡Hola! Soy Sebastián, un apasionado de la programación con un enfoque en el desarrollo web y móvil. Actualmente estoy como estudiante en el campus 42 de Málaga Fundación Telefónica, donde me esfuerzo por expandir mis conocimientos y mejorar mis habilidades técnicas.
+<p>I’m passionate about building useful tools — like my app for managing Arkham Horror 3rd Edition games:</p>
 
-# Mi camino en 42
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/sejimene?1337Badge=off&UM6P=off" alt="sejimene's 42 stats" /></a>
+<ul>
+  <li>🎮 <a href="https://arkhamhorror-39297.web.app/#/">Live App</a></li>
+  <li>📦 <a href="https://github.com/RybenShot/App_Arkham_Horror_3">GitHub Repo</a></li>
+</ul>
 
-## 👨‍💻 Experiencia:
-Durante dos años, tuve el privilegio de trabajar en el departamento de Data Quality en Opplus-BBVA, donde adquirí una sólida experiencia en el manejo y análisis de datos críticos para el funcionamiento eficiente de la organización. Durante mi tiempo allí, contribuí al desarrollo y mantenimiento de procesos automatizados de limpieza y validación de datos, lo que resultó en una mejora significativa en la precisión y consistencia de los datos utilizados en informes y análisis clave para la toma de decisiones empresariales.
+<p>Currently exploring Vue.js, generative AI, and game-inspired web experiences.</p>
 
-Además de mi experiencia profesional, he llevado a cabo un proyecto personal significativo: la creación de una herramienta para la gestión de datos del juego de mesa Arkham Horror 3º Edición. Este proyecto implicó el diseño y desarrollo de una aplicación web para facilitar la organización y análisis de los datos del juego, proporcionando a los jugadores una forma intuitiva de gestionar sus partidas y explorar estadísticas detalladas sobre su rendimiento y estrategias de juego.
+<p align="center">
+  <img src="https://socialify.git.ci/RybenShot/App_Arkham_Horror_3/image?font=Raleway&issues=1&language=1&name=1&owner=1&pattern=Circuit+Board&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
+</p>
 
-Estas experiencias me han enseñado la importancia de la precisión y la integridad de los datos en diferentes contextos, así como la capacidad de desarrollar soluciones innovadoras y efectivas para abordar necesidades específicas de información.
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RybenShot&theme=github-compact&custom_title=Sebastián%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🌐 Socials:
-¡Conéctate conmigo en [LinkedIn](https://linkedin.com/in/sebastian-jimenez-roman) para seguir mi viaje de aprendizaje y desarrollo!
+```yaml
+name: Sebastián Jiménez Román
+located_in: Málaga - Spain
+job: Full Stack Developer
+education: ["Currently studying at 42 Málaga by Fundación Telefónica"]
+company: Student at 42 Málaga
+past_experiences:
+  - ["FullStack Developer", "Web development with Java and Magnolia", "Cysnet - Aedas Homes", "Pamplona, Spain", "2024-03 to 2025-01"]
+  - ["Data Quality Analyst", "Automated data validation and cleansing", "Opplus - BBVA", "Spain", "2021-2023"]
+  - ["FullStack Developer", "Arkham Horror 3rd Ed. Data Management App", "Self-directed", "Spain", "2023"]
+fields_of_interests: ["Web Development", "Mobile Development", "Data Management", "UI/UX Design"]
+technical_background: ["JavaScript", "Vue.js", "Node.js", "Express", "MongoDB", "JSON-based APIs"]
+currently_learning: ["Vue", "Canvas API", "App architecture", "Frontend-backend integration", "Generative AI"]
+will_learn: ["socket.io for my proyect App Arkham Horror"]
+hobbies: ["Board games", "Rock and PopRock music", "Game design", "Cinema"]
+```
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -42,14 +60,26 @@ Estas experiencias me han enseñado la importancia de la precisión y la integri
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<div align="center">
+
 # 📊 GitHub Stats:
 <p>¡Echa un vistazo a mis proyectos y contribuciones en GitHub!</p>
 
-![](https://github-readme-stats.vercel.app/api?username=Rybenshot&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rybenshot&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rybenshot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Rybenshot&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+<br/>
+
+<div align="center">
+    <p>¿Que te parece si charlamos un rato?</p>
+    <a href="https://www.linkedin.com/in/sebastian-jimenez-roman/">
+    <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+    </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </div>
