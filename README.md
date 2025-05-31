@@ -70,6 +70,18 @@ hobbies: ["Board games", "Rock and PopRock music", "Game design", "Cinema"]
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 26 May 2025 - To: 29 May 2025
+
+Total Time: 5 hrs 45 mins
+
+JavaScript   2 hrs 59 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.08 %
+HTTP         1 hr 50 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.07 %
+Markdown     39 mins         ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.51 %
+JSON         15 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.34 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
