@@ -72,7 +72,7 @@ hobbies: ["Board games", "Rock and PopRock music", "Game design", "Cinema"]
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2025 - To: 03 July 2025
+From: 26 May 2025 - To: 04 July 2025
 
 Total Time: 81 hrs 11 mins
 
